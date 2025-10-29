@@ -4,4 +4,4 @@
 🔍 My research interests include but are not limited to **LLM Reasoning, RL for LLM, etc.** I am also actively expanding my knowledge and interests.
 
 ### 📫 Get in Touch
-Should you have any interest in my research or myself, feel free to connect or reach out for collaboration or discussion: ran159753@tju.edu.cn
+Should you have any interest in my research or myself, feel free to connect me for collaboration or discussion: ran159753@tju.edu.cn
