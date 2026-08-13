@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Haoran Zhao. 
-🎓 I am currently a master student at FudanNLP Group，Fudan University. 
+🎓 I am currently a master's student at FudanNLP Group, Fudan University.
 
 🔍 My research interests include but are not limited to **LLM Reasoning, AI Agents, etc.** I am also actively expanding my knowledge and interests.
 
